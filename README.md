@@ -11,7 +11,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on PIXNABI
+- 🔭 I’m currently looking for a job
   
 - 🌱 I'm currently learning backend developer skills
   
